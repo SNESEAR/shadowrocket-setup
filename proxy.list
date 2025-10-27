@@ -241,6 +241,8 @@ IP-CIDR,143.198.200.27/32,PROXY,no-resolve
 IP-CIDR,159.89.204.203/32,PROXY,no-resolve
 
 # Extra banned servies for phone
+DOMAIN-SUFFIX,cf-st.sc-cdn.net,PROXY
+DOMAIN-SUFFIX,snapchat.com,PROXY
 DOMAIN-SUFFIX,.ua,PROXY
 DOMAIN-SUFFIX,10minutemail.com,PROXY
 DOMAIN-SUFFIX,1337x.to,PROXY
